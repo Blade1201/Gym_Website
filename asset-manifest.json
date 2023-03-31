@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gym_Website/static/css/main.6ef0f4c4.css",
+    "main.js": "/Gym_Website/static/js/main.0facf901.js",
+    "static/media/offer.png": "/Gym_Website/static/media/offer.1cafdcd5cde8e96c4a68.png",
+    "static/media/banner.png": "/Gym_Website/static/media/banner.8f5b3dec684b36f286ac.png",
+    "static/media/about.png": "/Gym_Website/static/media/about.03399dbc0bcd717343e0.png",
+    "static/media/2.svg": "/Gym_Website/static/media/2.dea58bc0b99169d8476c8aa737b1539d.svg",
+    "static/media/3.svg": "/Gym_Website/static/media/3.b6a8ce0f1c4b7c66e13af1e81ddba814.svg",
+    "static/media/1.svg": "/Gym_Website/static/media/1.ebd4c52a2d5ec62b6590a2511b3ffbce.svg",
+    "static/media/4.svg": "/Gym_Website/static/media/4.f6149cb58e439c2549423a17e170988c.svg",
+    "index.html": "/Gym_Website/index.html",
+    "main.6ef0f4c4.css.map": "/Gym_Website/static/css/main.6ef0f4c4.css.map",
+    "main.0facf901.js.map": "/Gym_Website/static/js/main.0facf901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef0f4c4.css",
+    "static/js/main.0facf901.js"
+  ]
+}
